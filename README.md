@@ -83,3 +83,4 @@ Duração: 09/11/2020 até 29/11/2020
 * [Trello](https://trello.com/pt-BR)
 * [StackEdit](https://stackedit.io/)
 * [BrModelo2](http://www.sis4.com/brModelo/antigo.html)
+# Projeto_Integrador_2-Sem2020
